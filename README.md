@@ -1,4 +1,4 @@
-# riscv-test-prebuilt-binaries
+# riscv-tests-prebuilt-binaries
 
 This repo hosts pre-built binaries for the [official RISC-V test suite](https://github.com/riscv-software-src/riscv-tests).
 
